@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "cadastro_Pessoas_PBE11/1.0.0": {
+        "runtime": {
+          "cadastro_Pessoas_PBE11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cadastro_Pessoas_PBE11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
