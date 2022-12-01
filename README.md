@@ -3,7 +3,7 @@
 ## Funcionalidade
 - Cadstro de pessoa Física
 - Cadastro de pesso Jurídica
-- Peristência de dados com arquivo txt
+- Persistência de dados com arquivo txt
 - Persistência de dados com arquivo csv
 - Método de pagar imposto
 - Método de validar cnpj
