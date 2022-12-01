@@ -1,23 +1,23 @@
 # Projeto de Cadastro de Pessoas
 
 ## Funcionalidade
-- Cadstro de pessoa Física
+- Cadastro de pessoa Física
 - Cadastro de pesso Jurídica
 - Persistência de dados com arquivo txt
 - Persistência de dados com arquivo csv
 - Método de pagar imposto
 - Método de validar cnpj
-- Método de validar dta de Nascimento
+- Método de validar data de Nascimento
 
 ## Tecnologia utilizadas
 - Visual Studio Code
 - Ferramenta de versionamento GIT
--GITHUB
+- GITHUB
 - Linguagem de programação C#
 
 ## Recursos
-- SDK DO NOTNET 5.0
+- SDK DO .NET 5.0
 
 ## Autor
-Renato Costa
+Aluno: Renato Costa
 
